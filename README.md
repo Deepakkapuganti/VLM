@@ -39,8 +39,6 @@ Most existing emotion recognition models are trained on Western-centric datasets
 
 Three existing Indian emotion datasets were merged and re-annotated:
 
-**Source datasets:** Mendeley (2024) · ISED (2016) · iSAFE (2015)
-
 **Pipeline:**
 ```
 Merge All Datasets
@@ -226,9 +224,9 @@ login(token="your_hf_token")
 - Bhattacharyya & Wang. "Evaluating vision-language models for emotion recognition." arXiv:2502.05660, 2025.
 - Li et al. "CLIPER: A unified vision-language framework for in-the-wild facial expression recognition." IEEE ICME 2024.
 - Happy et al. "The Indian Spontaneous Expression Database for Emotion Recognition." IEEE TAC 8.1, 2015.
-- Source datasets: [Mendeley](https://data.mendeley.com/datasets/zfcd4bny82/1) · [iSAFE](https://www.academia.edu/49975259) · [ISED](https://sites.google.com/site/iseddatabase/home)
 
 ---
 
 *Presented by Group 14 · CDAC*
+
 
